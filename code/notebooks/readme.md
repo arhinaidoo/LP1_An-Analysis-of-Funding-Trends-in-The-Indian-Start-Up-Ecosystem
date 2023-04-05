@@ -28,6 +28,7 @@ import numpy as np
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
+import scipy
 from scipy import stats
 from summarytools import dfSummary
 import warnings
@@ -919,6 +920,6 @@ combined_data['Founded']=combined_data['Founded'].astype(int)
 t,p=stats.ttest_ind(combined_data['Founded'],combined_data['Amount($)'])
 print("P-value:", p)
 print("T-value:", t)
-since the p-value  is less than the the significant value of 0.05, the null hypothesis is rejectede.
+since the p-value  is less than the the significant value of 0.05, the null hypothesis is rejected.
 
 Please host your standalone notebook in this folder.

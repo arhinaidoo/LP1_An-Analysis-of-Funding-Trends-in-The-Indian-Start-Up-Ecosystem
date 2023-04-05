@@ -34,11 +34,12 @@
 
 ## Setup
 ...
-Importing all Relevant Libraries
+# Importing all Relevant Libraries
 import numpy as np
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
+import scipy
 from scipy import stats
 from summarytools import dfSummary
 import warnings
