@@ -4,7 +4,7 @@
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| LP1 | An Analysis of funding trends in the Indian start-up ecosystem|  [https://medium.com/@stephen.aidoo/an-analysis-of-funding-trends-in-the-indian-start-up-ecosystem-e2e624ce40fd](/) | [https://app.powerbi.com/groups/me/reports/bd227e1d-2cb3-4338-accf-f3754383164d/ReportSection](/) |
+| LP1 | Data Analytics Project|  [https://medium.com/@stephen.aidoo/an-analysis-of-funding-trends-in-the-indian-start-up-ecosystem-e2e624ce40fd](/) | [https://app.powerbi.com/groups/me/reports/bd227e1d-2cb3-4338-accf-f3754383164d/ReportSection](/) |
 
 ## Project Description
 <H1 style="text-align: center;font-size:30px ; font-family: 'Times New Roman'; color:#00008B"> Project Title</H1>
