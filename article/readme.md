@@ -93,3 +93,7 @@ A correlation between Amount and Year FoundedTop 10 Sectors with most FundingF
 Please click on this here for a more interactive visualization from PowerBI
 ## Author
 Stephen Arhin-Aidoo
+
+
+## Link to draft article
+https://medium.com/@stephen.aidoo/an-analysis-of-funding-trends-in-the-indian-start-up-ecosystem-e2e624ce40fd
